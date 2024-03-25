@@ -1,0 +1,9 @@
+[submodule "PiIT_Mobile"]
+	path = PiIT_Mobile
+	url = https://github.com/partickle/PiIT_Mobile
+[submodule "PiIT_FE"]
+	path = PiIT_FE
+	url = https://github.com/partickle/PiIT_FE
+[submodule "PiIT_BE"]
+	path = PiIT_BE
+	url = https://github.com/partickle/PiIT_BE
