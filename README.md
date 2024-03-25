@@ -12,5 +12,6 @@
 «PiIT» – приложение, предоставляющее студентам и преподавателям доступ к актуальной информации о жизни кафедры.
 
 ## Сервисы
+* [YouTrack](https://shish-ai-ai.youtrack.cloud/agiles/159-7/current)
 * [Figma](https://www.figma.com/file/vG3qdvjGZk7O1X4Ai4JRwP/PiIT)
 * [Miro](https://miro.com/app/board/uXjVKc8Z7io=/)
