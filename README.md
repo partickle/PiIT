@@ -1,7 +1,7 @@
 # PiIT
 
 ### Участники:
-* [Путилин Максим](https://github.com/partickle/) - team lead, mobile developer
+* [Путилин Максим](https://github.com/partickle/) - team lead, full-stack, mobile developer
 * [Тернавский Даниил](https://github.com/Ternavksy) - frontend developer
 * [Таранцов Иван](https://github.com/Shish-ai-ai) - backend developer
 
